@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.walkertest.core","c":"Packager","l":"packageToParts(QuestionsManager<K, V>)","url":"packageToParts(com.walkertest.core.QuestionsManager)"}]
