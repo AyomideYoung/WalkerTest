@@ -12,7 +12,7 @@ import com.walkertest.question.Question;
  * into the required parts.
  *
  * @param <K>
- * The object to use as the {@code Question}'s id 
+ * The type to use as the {@code Question}'s id
  * @param <V>
  * The type of object that will contain the {@code Question} and {@code Answer}'s
  * raw data
